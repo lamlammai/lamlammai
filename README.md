@@ -1,10 +1,10 @@
 
 
-# Hi there 👋 I'm Lamlammai!
+# Hi there ✌️✌️ I'm Lamlammai! 💃💃
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lora&color=%23F73733&size=27&lines=Nice+to+meet+you+%F0%9F%91%8B+%F0%9F%91%8B;FrontEnd+Developer...+%F0%9F%92%BB+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lora&color=%23F73733&size=27&lines=Nice+to+meet+you+%F0%9F%91%8B+%F0%9F%91%8B;FrontEnd+Developer...+%F0%9F%92%99%E2%9D%A4%EF%B8%8F;Good+Luck+%F0%9F%8D%80%F0%9F%8D%80)](https://git.io/typing-svg)
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>👩‍💻👩‍💻 About Me </h3>
 <ul>
   <li color= "#fa3c3c" list-style= "none"> 🔭 &nbsp;I am currently learning about Web Application Development</li>
   <li style="color: #fa3c3c;list-style: none;"> 🎓 &nbsp; Academy of Cryptography</li>
