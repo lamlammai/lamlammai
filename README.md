@@ -29,7 +29,9 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88?style=flat-square&logo=redux&logoColor=white"/>
+   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TS-%23success?style=flat-square&logo=tsnode&logoColor=ffffff"/>
+  
 </p>
 <p>
   <a href="https://github.com/lamlammai">
